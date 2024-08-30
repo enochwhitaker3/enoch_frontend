@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Connection
+- docker run -it --rm -p 0.0.0.0:3252:80 enoch-react
+- http://144.17.92.21:3252/
